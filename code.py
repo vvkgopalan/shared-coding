@@ -21,7 +21,7 @@ for n in next:
         continue
 
  
-              
+##           
 seq=begin
 
 while True:
